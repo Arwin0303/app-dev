@@ -7,11 +7,11 @@ My first repository
 
 ## 1. Interstellar
 > *Genre*: Sci-Fi, Drama
-> *Why I love it*: A visually stunning exploration of space and the emotional bond between a father and his daughter. 🌌*
+> *Why I love it*: A visually stunning exploration of space and the emotional bond between a father and his daughter. 🌌
 
 ## 2. **The Dark Knight**  
 > *Genre*: Action, Thriller  
-> *Why I love it*: A gritty and powerful superhero film with an unforgettable performance by Heath Ledger as the Joker. 🃏*
+> *Why I love it*: A gritty and powerful superhero film with an unforgettable performance by Heath Ledger as the Joker. 🃏
 
 ---
 
